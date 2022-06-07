@@ -1,1 +1,1 @@
-# React-Practice-Beginner-Projects
+# React JS -Counter App-Beginner-Practice
